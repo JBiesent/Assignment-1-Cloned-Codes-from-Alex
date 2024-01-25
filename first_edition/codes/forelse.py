@@ -10,6 +10,6 @@ def look(target,names):
         val = None
     return val
 
-names = ["Alice", "Bob", "Eve"]
+names = ["Ezekiel", "Bill", "John"]
 print(look("Eve", names))
 print(look("Jack", names))
